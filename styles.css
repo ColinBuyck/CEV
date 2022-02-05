@@ -1,0 +1,63 @@
+/*
+external CSS rules, there is inline css in the files as well
+*/
+.bg-lightGreen{
+  background-color: #edfa8b;
+}
+.bg-darkBlue{
+  background-color: #1e425e;
+}
+.bg-darkGreen{
+  background-color: #407056;
+}
+.bg-lightGreen{
+  background-color: #ade28a;
+}
+.bg-yellow{
+  background-color:#edfa8b;
+}
+.mcdonaldsIndexCard{
+  margin-top:80px;
+  margin-bottom:50px;
+  padding-top:40px;
+}
+.cookoutIndexCard{
+  margin-top: 150px;
+  margin-bottom:50px;
+  padding-top:75px;
+  padding-bottom:100px;
+}
+.chipotleIndexCard{
+  padding-top: 80px;
+  margin-bottom:50px;
+}
+.mcdonaldsLogo{
+  width:300px;
+  height:300px;
+}
+.chipotleLogo{
+  width:250px;
+  height:250px;
+}
+.climatitionButton{
+  text-align: center;
+}
+.oneCompanyButton{
+  text-align: center;
+}
+.climateitionSearchBars{
+  margin-top:25px;
+  margin-bottom:25px;
+}
+.compareButton{
+  margin-top:50px;
+  margin-bottom:50px;
+}
+.title{
+  margin-top:25px;
+  margin-bottom:10px;
+}
+.oneSearchButton{
+  margin-top:25px;
+  margin-bottom:25px;
+}
